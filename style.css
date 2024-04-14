@@ -362,7 +362,6 @@ footer img {
 @media (max-width: 600px) {
     .imagenflecha {
         width: 100%;
-        border: 2px solid red;
         display: flex;
         align-items: center;
         justify-content: center;
